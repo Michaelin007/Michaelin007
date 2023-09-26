@@ -1,6 +1,6 @@
 ### Hi there 👋
-<hr>
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+
+### <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif)" width="45px">
 <hr>
 Hey, I'm Michael and I like coding for fun.
 
